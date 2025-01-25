@@ -1,0 +1,7 @@
+
+# Add example data here for fraud detection (CSV format example)
+transaction_id,amount,merchant,fraud
+1,100,Store_A,0
+2,500,Store_B,1
+3,30,Store_C,0
+4,2000,Store_D,1
