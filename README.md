@@ -113,6 +113,7 @@ The project uses a `.env.example` file for managing environment variables like c
 ## Project Structure
 
 - **`app/`**: Contains the FastAPI application.
+- **`config/`**: Contains config files.
 - **`models/`**: Scripts and files for training the machine learning models.
 - **`data/`**: Sample data (`transaction_data.csv`).
 - **`cloud/`**: Instructions for cloud integration.
