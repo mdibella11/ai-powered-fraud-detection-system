@@ -1,9 +1,0 @@
-
-pandas
-xgboost
-scikit-learn
-tensorflow
-azureml-sdk
-boto3
-google-cloud-aiplatform
-flask
